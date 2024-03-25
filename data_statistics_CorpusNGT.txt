@@ -1,0 +1,5 @@
+Nr of glossed videos in ECHO: 			605
+Nr of unique glosses in ECHO: 			2328
+Nr of total glosses in ECHO: 			118420
+Average length of videos in ECHO: 		157.27872516556292 sec or 2.6213120860927153 min
+Avg number of glosses per video in ECHO: 	195.73553719008265

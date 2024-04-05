@@ -4,6 +4,7 @@ This project is a part of my BA thesis at the University of Utrecht
 
 
 ## Citations
+````
 @article{chen2022two,
 title={Two-Stream Network for Sign Language Recognition and Translation},
   author={Chen, Yutong and Zuo, Ronglai and Wei, Fangyun and Wu, Yu and Liu, Shujie and Mak, Brian},

@@ -1,4 +1,4 @@
-# Thesis Project: Dutch Sign-Language-Recognition
+# Thesis Project: Automated Dutch Sign Language Recognition Using Pose and Motion Features
 
 This project is a part of my BSC thesis at the University of Utrecht. Thesis document above.
 

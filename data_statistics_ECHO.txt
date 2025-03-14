@@ -1,0 +1,9 @@
+Nr of glossed videos: 			20
+Nr of unique glosses: 			465
+Nr of total glosses: 			1141
+Average length of videos: 		619.5733333333334 sec or 10.326222222222222 min
+Avg number of glosses per video: 	285.25
+Avg number of glosses per sentence: 	7.4332247557003255
+Avg number of sentences per video: 	38.375
+Nr of sentences: 			614
+Nr of translated videos: 		16
